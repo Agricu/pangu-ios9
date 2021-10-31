@@ -12,4 +12,3 @@
 4、最后输入:nvram auto-boot=false
 
 5、如需查询G值是否固定成功可输入:nvram -p
-# pangu-ios9
